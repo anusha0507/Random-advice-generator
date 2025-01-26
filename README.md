@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# React + Vite
+Random Advice Generator
+A simple React web application that fetches random pieces of advice from the AdviceSlip API and displays them on the screen. Each time you click the "Get Advice" button, a new piece of advice is displayed, and the background color changes dynamically.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+🎲 Fetch random advice using the AdviceSlip API.
+🎨 Dynamic background color changes on each click.
+🖥️ Responsive and minimalist UI built with React.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Random-advice-generator
->>>>>>> 8d5706fc92cad6ea3d607968425d8f1364d8697e
